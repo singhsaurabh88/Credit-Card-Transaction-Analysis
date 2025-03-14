@@ -1,6 +1,10 @@
-# Credit-Card-Transaction-Analysis
-SQL Case Study on Credit Card Transactions analysis
+# Project Overview
 
+This project focuses on analyzing consumer spending behavior using a real-world credit card transactions dataset. The dataset, sourced from Kaggle, contains 26,000+ records covering transactions from October 2013 to May 2015.
+
+# Dataset Source
+
+📥 Download Dataset: Kaggle - Analyzing Credit Card Spending Habits in India
 
 <b>Credit Card Transactions Overview</B>
 
