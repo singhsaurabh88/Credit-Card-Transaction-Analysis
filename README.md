@@ -4,9 +4,10 @@ This project focuses on analyzing consumer spending behavior using a real-world 
 
 # Dataset Source
 
-📥 Download Dataset: Kaggle - Analyzing Credit Card Spending Habits in India
+📥 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
 
-<b>Credit Card Transactions Overview</B>
+
+# Credit Card Transactions Overview
 
 This dataset contains over 26,000 transactions spanning from October 2013 to May 2015, providing a comprehensive two-year window into consumer spending patterns. The transactions are linked to four different card types—Silver, Gold, Platinum, and Signature—each likely representing a different tier of customer privileges and benefits.
 Spending Categories and Consumer Behavior
