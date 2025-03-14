@@ -9,7 +9,8 @@ This project focuses on analyzing consumer spending behavior using a real-world 
 
 # Credit Card Transactions Overview
 
-This dataset contains over 26,000 transactions spanning from October 2013 to May 2015, providing a comprehensive two-year window into consumer spending patterns. The transactions are linked to four different card types—Silver, Gold, Platinum, and Signature—each likely representing a different tier of customer privileges and benefits.
+This dataset contains over <b>26,000 transactions</b> spanning from <b> October 2013 to May 2015 </b>, providing a comprehensive two-year window into consumer spending patterns.
+The transactions are linked to four different card types— <b>Silver, Gold, Platinum, and Signature </b>—each likely representing a different tier of customer privileges and benefits.
 Spending Categories and Consumer Behavior
 
 <b>Cardholders used their credit cards across a variety of six major expense categories:</b>
