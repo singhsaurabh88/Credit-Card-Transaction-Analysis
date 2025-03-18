@@ -1,6 +1,9 @@
 # Project Overview
 
 This project focuses on analyzing consumer spending behavior using a real-world credit card transactions dataset. The dataset, sourced from Kaggle, contains 26,000+ records covering transactions from October 2013 to May 2015.The analysis is performed using SQL Server queries to extract key insights related to spending trends, geographical distribution, and card usage patterns.
+![tRaDVO_N](https://github.com/user-attachments/assets/f917d7e3-0bf6-4d6c-aca5-c0f76bab0b80)
+
+
 
 # Dataset Source
 
