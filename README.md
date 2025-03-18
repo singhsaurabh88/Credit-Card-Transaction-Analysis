@@ -49,8 +49,11 @@ The dataset also reveals that transactions occurred in a wide geographic spread,
 <b>--Key Objectives </b>
 
 --✅ Understand spending trends over time
+
 --✅ Identify popular spending categories
+
 --✅ Analyze card type usage patterns
+
 --✅ Examine geographical spending distribution
 
 
