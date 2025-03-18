@@ -57,7 +57,8 @@ The dataset also reveals that transactions occurred in a wide geographic spread,
 --✅ Examine geographical spending distribution
 
 
-<b>Exploratory Data Analysis (EDA) Questions</b>
+
+## Exploratory Data Analysis (EDA) Questions
 
 <b>A. Data Overview</b>
 
